@@ -332,7 +332,3 @@ javac Primes.java
 java Primes
 ```
 
----
-
-# Результат
-
