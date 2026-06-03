@@ -1,10 +1,6 @@
 import java.util.Scanner;
 import java.util.regex.*;
 
-/**
- * ЛАБОРАТОРНАЯ РАБОТА №5 — Задание 5
- * Поиск всех слов, начинающихся с заданной буквы
- */
 public class Task5 {
 
     public static void main(String[] args) {
